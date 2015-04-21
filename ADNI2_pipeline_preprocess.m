@@ -1,4 +1,4 @@
-%%% Preprocessing script for ADNI2 dataset
+%%% Preprocessing script for ADNI2 dataset 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Setting input/output files %%
