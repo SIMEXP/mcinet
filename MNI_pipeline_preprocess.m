@@ -1,4 +1,4 @@
-%%% Preprocessing script for MNI dataset
+%%% Preprocessing script for MNI dataset 
 
 clear;
 
