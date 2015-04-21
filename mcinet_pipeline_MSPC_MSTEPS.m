@@ -1,4 +1,4 @@
-%%% MCINET GLM CONNECTOME SCRIPT for MSTEPS scales 
+%%% MCINET GLM CONNECTOME SCRIPT for MSTEPS resolutions
 
 clear all
 addpath(genpath('/home/atam/quarantaine/niak-boss-0.12.18'));
