@@ -15,8 +15,8 @@ Due to restrictions imposed by the Alzheimer's Disease Neuroimaging Initiative (
 
 ## GLM-connectome analysis
 - The preprocessing pipelines for [ADNI2](https://github.com/SIMEXP/mcinet/blob/master/ADNI2_pipeline_preprocess.m), [MNI](https://github.com/SIMEXP/mcinet/blob/master/MNI_pipeline_preprocess.m), [CRIUGMa](https://github.com/SIMEXP/mcinet/blob/master/CRIUGMa_pipeline_preprocess.m), and [CRIUGMb](https://github.com/SIMEXP/mcinet/blob/master/CRIUGMb_pipeline_preprocess.m)
-- The [region-growing](https://github.comSIMEXP/mcinet/blob/master/mcinet_pipeline_region_growing.m) pipeline
-- The [Boostrap Analysis of Stable Clusters](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_BASC_regular_grid.m) pipeline, with regular grid of resolutions/scales.
-- The [Boostrap Analysis of Stable Clusters](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_BASC_MSTEPS.m) pipeline, with resolutions/scales selected by MSTEPS.
-- The [Multiscale Statistical Parametric Connectome](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_MSPC_regular_grid.m) pipeline, with regular grid of resolutions/scales.
-- The [Multiscale Statistical Parametric Connectome](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_MSPC_MSTEPS.m) pipeline, with resolutions/scales selected by MSTEPS
+- The [region-growing](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_region_growing.m) pipeline
+- The [Boostrap Analysis of Stable Clusters](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_BASC_regular_grid.m) pipeline, with regular grid of resolutions.
+- The [Boostrap Analysis of Stable Clusters](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_BASC_MSTEPS.m) pipeline, with resolutions selected by MSTEPS.
+- The [Multiscale Statistical Parametric Connectome](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_MSPC_regular_grid.m) pipeline, with regular grid of resolutions.
+- The [Multiscale Statistical Parametric Connectome](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_MSPC_MSTEPS.m) pipeline, with resolutions selected by MSTEPS
