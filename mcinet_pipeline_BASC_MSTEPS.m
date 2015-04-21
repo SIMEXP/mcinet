@@ -1,6 +1,6 @@
 %%% MCINET BASC script with MSTEPS
 
-clear all
+clear all 
 
 addpath(genpath('/home/atam/quarantaine/niak-boss-0.12.18'));
 
