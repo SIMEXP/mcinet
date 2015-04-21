@@ -1,7 +1,7 @@
 %%% Preprocessing script for CRIUGMa dataset
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Setting input/output files %%
+%% Setting input/output files %% 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% WARNING: Do not use underscores '_' in the IDs of subject, sessions or runs. This may cause bugs in subsequent pipelines.
