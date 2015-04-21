@@ -1,4 +1,4 @@
-%%% MCINET region growing
+%%% MCINET region growing 
 
 clear all
 
