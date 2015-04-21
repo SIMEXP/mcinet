@@ -1,4 +1,4 @@
-%%% MCINET GLM CONNECTOME SCRIPT with regular grid of resolutions/scales
+%%% MCINET GLM CONNECTOME SCRIPT with regular grid of resolutions
 
 clear all
 addpath(genpath('/home/atam/quarantaine/niak-boss-0.12.18'));
