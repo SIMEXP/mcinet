@@ -15,7 +15,7 @@ files_in.infos = [path_data 'adnet/models/admci_model_group_20141210.csv']; % A 
 
 %%%%%%%%%%%%%
 %% Options %%
-%%%%%%%%%%%%%
+%%%%%%%%%%%%% 
 
 opt.folder_out = [path_data 'adnet/basc_40sc_20141210/']; % Where to store the results
 opt.grid_scales = 5:5:200; % Search for stable clusters in the range 5 to 200
