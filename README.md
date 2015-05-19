@@ -11,7 +11,7 @@ The four datasets include:
 - A sample collected at the Montreal Neurological Institute, henceforth referred to as MNI, and which has been described in [this publication](http://www.ncbi.nlm.nih.gov/pubmed/24583406)
 - Two samples collected at the Centre de recherche de l'institut universitaire de gériatrie de Montréal, henceforth referred to as CRIUGMa and CRIUGMb
 
-Due to restrictions imposed by the Alzheimer's Disease Neuroimaging Initiative (ADNI) and/or by the consent forms signed by the subjects, some of the data used in the paper cannot be shared.
+Due to restrictions imposed by the Alzheimer's Disease Neuroimaging Initiative (ADNI) and/or by the consent forms signed by the subjects, data used in the paper cannot be shared.
 
 ## GLM-connectome analysis
 - The preprocessing pipelines for [ADNI2](https://github.com/SIMEXP/mcinet/blob/master/preprocess/ADNI2_pipeline_preprocess.m), [MNI](https://github.com/SIMEXP/mcinet/blob/master/preprocess/MNI_pipeline_preprocess.m), [CRIUGMa](https://github.com/SIMEXP/mcinet/blob/master/preprocess/CRIUGMa_pipeline_preprocess.m), and [CRIUGMb](https://github.com/SIMEXP/mcinet/blob/master/preprocess/CRIUGMb_pipeline_preprocess.m)
