@@ -1,6 +1,7 @@
 # mcinet_paper
 
 This github repository contains the scripts used to generate the results of the following publication:
+
 A. Tam, C. Dansereau, A. Badhwar, P. Orban, S. Belleville, H. Chertkow, A. Dagher, A. Hanganu, O. Monchi, P. Rosa-Neto, A. Shmuel, S. Wang, J. Breitner, P. Bellec, for the Alzheimer's Disease Neuroimaging Initiative  *Consistent inter-protocol differences in resting-state functional connectomes between normal aging and mild cognitive impairment*  [http://dx.doi.org/10.1101/019646](http://dx.doi.org/10.1101/019646)
 
 ## Data
