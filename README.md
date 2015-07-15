@@ -14,6 +14,8 @@ The four datasets include:
 
 Due to restrictions imposed by the Alzheimer's Disease Neuroimaging Initiative (ADNI) and/or by the consent forms signed by the subjects, data used in the paper cannot be shared.
 
+We have released the Bootstrap Analysis of Stable Clusters (BASC)-generated group functional templates derived from the datasets on [figshare](http://dx.doi.org/10.6084/m9.figshare.1480461). This release contains 3D volumes of the symmetric and asymmetric brain parcellations at all resolutions selected by MSTEPS in both nii and mnc formats.
+
 ## GLM-connectome analysis
 - The preprocessing pipelines for [ADNI2](https://github.com/SIMEXP/mcinet/blob/master/preprocess/ADNI2_pipeline_preprocess.m), [MNI](https://github.com/SIMEXP/mcinet/blob/master/preprocess/MNI_pipeline_preprocess.m), [CRIUGMa](https://github.com/SIMEXP/mcinet/blob/master/preprocess/CRIUGMa_pipeline_preprocess.m), and [CRIUGMb](https://github.com/SIMEXP/mcinet/blob/master/preprocess/CRIUGMb_pipeline_preprocess.m)
 - The [region-growing](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_region_growing.m) pipeline
