@@ -40,7 +40,7 @@ files_in.fmri = psom_merge_pipeline(files_in.fmri,files_in_tmp.fmri);
 %%%%%%%%%%%%
 
 %% Group
-files_in.model.group = [path_data 'adnet/models/admci_model_multisite_scanner_fd_20151113.csv'];  %% Note the different csv from mcinet_pipeline_MSPC_MSTEPS.m
+files_in.model.group = [path_data 'adnet/models/admci_model_multisite_scanner_fd_snr_20151113.csv'];  %% Note the different csv from mcinet_pipeline_MSPC_MSTEPS.m
 
 %%%%%%%%%%%%
 %% Options 
