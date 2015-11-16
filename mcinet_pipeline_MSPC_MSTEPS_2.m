@@ -66,8 +66,11 @@ opt.test.ctrlvsmci.group.contrast.age = 0;
 opt.test.ctrlvsmci.group.contrast.gender = 0;
 opt.test.ctrlvsmci.group.contrast.fd = 0;
 opt.test.ctrlvsmci.group.multisite = 'mtladni2sites';
-opt.test.ctrlvsmci.group.select.label = 'diagnosis'; 
-opt.test.ctrlvsmci.group.select.values = [1 2];
+opt.test.ctrlvsmci.group.select(1).label = 'diagnosis'; 
+opt.test.ctrlvsmci.group.select(1).values = [1 2];
+opt.test.ctrlvsmci.group.select(2).label = 'mtladni2sites'; 
+opt.test.ctrlvsmci.group.select(2).values = [1 3 4 5 6 7 9];
+opt.test.ctrlvsmci.group.select(2).operation = 'and';
 
 
 %% Group averages
@@ -79,8 +82,11 @@ opt.test.avg_ctrl.group.contrast.age = 0;
 opt.test.avg_ctrl.group.contrast.gender = 0;
 opt.test.avg_ctrl.group.contrast.fd = 0;
 opt.test.avg_ctrl.group.multisite = 'mtladni2sites';
-opt.test.avg_ctrl.group.select.label = 'diagnosis';
-opt.test.avg_ctrl.group.select.values = 1;
+opt.test.avg_ctrl.group.select(1).label = 'diagnosis';
+opt.test.avg_ctrl.group.select(2).values = 1;
+opt.test.avg_ctrl.group.select(2).label = 'mtladni2sites'; 
+opt.test.avg_ctrl.group.select(2).values = [1 3 4 5 6 7 9];
+opt.test.avg_ctrl.group.select(2).operation = 'and';
 
 %%% mci avg connectivity
 opt.test.avg_mci.group.contrast.intercept = 1;
@@ -88,8 +94,11 @@ opt.test.avg_mci.group.contrast.age = 0;
 opt.test.avg_mci.group.contrast.gender = 0;
 opt.test.avg_mci.group.contrast.fd = 0;
 opt.test.avg_mci.group.multisite = 'mtladni2sites';
-opt.test.avg_mci.group.select.label = 'diagnosis';
-opt.test.avg_mci.group.select.values = 2;
+opt.test.avg_mci.group.select(1).label = 'diagnosis';
+opt.test.avg_mci.group.select(1).values = 2;
+opt.test.avg_mci.group.select(2).label = 'mtladni2sites'; 
+opt.test.avg_mci.group.select(2).values = [1 3 4 5 6 7 9];
+opt.test.avg_mci.group.select(2).operation = 'and';
 
 
 %%%%%%%%%%%%
