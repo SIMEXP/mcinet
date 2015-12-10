@@ -2,7 +2,7 @@
 
 This github repository contains the scripts used to generate the results of the following publication:
 
-A. Tam, C. Dansereau, A. Badhwar, P. Orban, S. Belleville, H. Chertkow, A. Dagher, A. Hanganu, O. Monchi, P. Rosa-Neto, A. Shmuel, S. Wang, J. Breitner, P. Bellec, for the Alzheimer's Disease Neuroimaging Initiative  *Consistent inter-protocol differences in resting-state functional connectomes between normal aging and mild cognitive impairment*  [http://dx.doi.org/10.1101/019646](http://dx.doi.org/10.1101/019646)
+A. Tam, C. Dansereau, A. Badhwar, P. Orban, S. Belleville, H. Chertkow, A. Dagher, A. Hanganu, O. Monchi, P. Rosa-Neto, A. Shmuel, S. Wang, J. Breitner, P. Bellec, for the Alzheimer's Disease Neuroimaging Initiative (2015).  *Common effects of amnestic mild cognitive impairment on resting-state connectivity across four independent studies* Front. Aging Neurosci. 7:242. [http://journal.frontiersin.org/article/10.3389/fnagi.2015.00242/full](http://journal.frontiersin.org/article/10.3389/fnagi.2015.00242/full)
 
 ## Data
 
@@ -21,5 +21,12 @@ We have released the Bootstrap Analysis of Stable Clusters (BASC)-generated grou
 - The [region-growing](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_region_growing.m) pipeline
 - The [Boostrap Analysis of Stable Clusters](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_BASC_regular_grid.m) pipeline, with regular grid of resolutions.
 - The [Boostrap Analysis of Stable Clusters](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_BASC_MSTEPS.m) pipeline, with resolutions selected by MSTEPS.
+- The [Multiscale Statistical Parametric Connectome](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_MSPC_MSTEPS_2.m) pipeline, with resolutions selected by MSTEPS
+
+Scripts for a previous version of the above analysis can be found below:
 - The [Multiscale Statistical Parametric Connectome](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_MSPC_regular_grid.m) pipeline, with regular grid of resolutions.
 - The [Multiscale Statistical Parametric Connectome](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_MSPC_MSTEPS.m) pipeline, with resolutions selected by MSTEPS
+
+This analysis did not model different scanner models in ADNI2 and instead treated ADNI2 as a single site.  The results of this analysis can be found in the following preprint:
+
+A. Tam, C. Dansereau, A. Badhwar, P. Orban, S. Belleville, H. Chertkow, A. Dagher, A. Hanganu, O. Monchi, P. Rosa-Neto, A. Shmuel, S. Wang, J. Breitner, P. Bellec, for the Alzheimer's Disease Neuroimaging Initiative  *Consistent inter-protocol differences in resting-state functional connectomes between normal aging and mild cognitive impairment*  [http://dx.doi.org/10.1101/019646](http://dx.doi.org/10.1101/019646)
