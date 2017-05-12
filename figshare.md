@@ -32,5 +32,9 @@ This release contains the following files:
 The datasets were analysed using the NeuroImaging Analysis Kit (NIAK https://github.com/SIMEXP/niak) version 0.12.18, under CentOS version 6.3 with Octave (http://gnu.octave.org) version 3.8.1 and the Minc toolkit (http://www.bic.mni.mcgill.ca/ServicesSoftware/ServicesSoftwareMincToolKit) version 0.3.18. Brain parcellations were derived using BASC (Bellec et al. 2010). Functional connectomes were generated, and general linear models were used to test for differences between patients and controls for each connection between two clusters. Please see the README.md for more details. 
 ### References
 Bellec, P, et al, 2010. Multi-level bootstrap analysis of stable clusters in resting-state fMRI. NeuroImage 51 (3), 1126–1139.
+
+Bellec, P, Jun. 2013. Mining the Hierarchy of Resting-State Brain Networks: Selection of Representative Clusters in a Multiscale Structure. In: Pattern Recognition in Neuroimaging (PRNI), 2013 International Workshop on. pp. 54–57.
+
 Tam, A, et al, 2015. Common Effects of Amnestic Mild Cognitive Impairment on Resting-State Connectivity Across Four Independent Studies. Frontiers in Aging Neuroscience 7, 242.
+
 Tam, A, et al, 2016. A dataset of multiresolution functional brain parcellations in an elderly population with no or mild cognitive impairment. Data in Brief 9, 1122–1129.
