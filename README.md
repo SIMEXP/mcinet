@@ -16,6 +16,11 @@ Due to restrictions imposed by the Alzheimer's Disease Neuroimaging Initiative (
 
 We have released the Bootstrap Analysis of Stable Clusters (BASC)-generated group functional templates derived from the datasets on [figshare](http://dx.doi.org/10.6084/m9.figshare.1480461). This release contains 3D volumes of the symmetric and asymmetric brain parcellations at all resolutions selected by MSTEPS in both nii and mnc formats.
 
+The release of these parcellations was described in the following publication:
+
+A. Tam, C. Dansereau, A. Badhwar, P. Orban, S. Belleville, H. Chertkow, A. Dagher, A. Hanganu, O. Monchi, P. Rosa-Neto, A. Shmuel, J. Breitner, P. Bellec, for the Alzheimer's Disease Neuroimaging Initiative (2016).  *A dataset of multiresolution functional brain parcellations in an elderly population with no or mild cognitive impairment* Data in Brief 9, 1122-1129. [https://doi.org/10.1016/j.dib.2016.11.036](https://doi.org/10.1016/j.dib.2016.11.036)
+
+
 ## GLM-connectome analysis
 - The preprocessing pipelines for [ADNI2](https://github.com/SIMEXP/mcinet/blob/master/preprocess/ADNI2_pipeline_preprocess.m), [MNI](https://github.com/SIMEXP/mcinet/blob/master/preprocess/MNI_pipeline_preprocess.m), [CRIUGMa](https://github.com/SIMEXP/mcinet/blob/master/preprocess/CRIUGMa_pipeline_preprocess.m), and [CRIUGMb](https://github.com/SIMEXP/mcinet/blob/master/preprocess/CRIUGMb_pipeline_preprocess.m)
 - The [region-growing](https://github.com/SIMEXP/mcinet/blob/master/mcinet_pipeline_region_growing.m) pipeline
